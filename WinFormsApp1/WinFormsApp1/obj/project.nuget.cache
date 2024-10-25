@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "gcPQYjLAtUk=",
+  "success": true,
+  "projectFilePath": "D:\\Selçuk Üniversitesi\\6.donem\\yapay_zeka\\ysa_odev\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hakan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.19\\microsoft.windowsdesktop.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\Hakan\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.19\\microsoft.netcore.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\Hakan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.19\\microsoft.aspnetcore.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\Hakan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.19\\microsoft.netcore.app.host.win-x64.7.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}

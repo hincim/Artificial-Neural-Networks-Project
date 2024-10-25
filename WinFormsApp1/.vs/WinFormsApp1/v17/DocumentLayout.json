@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Sel\u00E7uk \u00DCniversitesi\\6.donem\\yapay_zeka\\ysa_odev\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15D539F4-F78E-43A5-90C7-913281198CDC}|WinFormsApp1\\WinFormsApp1.csproj|d:\\sel\u00E7uk \u00FCniversitesi\\6.donem\\yapay_zeka\\ysa_odev\\winformsapp1\\winformsapp1\\yapaysiniragi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D539F4-F78E-43A5-90C7-913281198CDC}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\yapaysiniragi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D539F4-F78E-43A5-90C7-913281198CDC}|WinFormsApp1\\WinFormsApp1.csproj|d:\\sel\u00E7uk \u00FCniversitesi\\6.donem\\yapay_zeka\\ysa_odev\\winformsapp1\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D539F4-F78E-43A5-90C7-913281198CDC}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D539F4-F78E-43A5-90C7-913281198CDC}|WinFormsApp1\\WinFormsApp1.csproj|D:\\Sel\u00E7uk \u00DCniversitesi\\6.donem\\yapay_zeka\\ysa_odev\\WinFormsApp1\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15D539F4-F78E-43A5-90C7-913281198CDC}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D539F4-F78E-43A5-90C7-913281198CDC}|WinFormsApp1\\WinFormsApp1.csproj|d:\\sel\u00E7uk \u00FCniversitesi\\6.donem\\yapay_zeka\\ysa_odev\\winformsapp1\\winformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D539F4-F78E-43A5-90C7-913281198CDC}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Sel\u00E7uk \u00DCniversitesi\\6.donem\\yapay_zeka\\ysa_odev\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\hakan.DESKTOP-99I88G4\\OneDrive\\Masa\u00FCst\u00FC\\yapay_zeka\\ysa_odev\\WinFormsApp1\\WinFormsApp1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-25T08:53:12.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Sel\u00E7uk \u00DCniversitesi\\6.donem\\yapay_zeka\\ysa_odev\\WinFormsApp1\\WinFormsApp1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.Designer.cs",
+              "ToolTip": "D:\\Sel\u00E7uk \u00DCniversitesi\\6.donem\\yapay_zeka\\ysa_odev\\WinFormsApp1\\WinFormsApp1\\Form1.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T08:53:12.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Sel\u00E7uk \u00DCniversitesi\\6.donem\\yapay_zeka\\ysa_odev\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "D:\\Sel\u00E7uk \u00DCniversitesi\\6.donem\\yapay_zeka\\ysa_odev\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAqwLQAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T08:53:12.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "YapaySinirAgi.cs",
+              "DocumentMoniker": "D:\\Sel\u00E7uk \u00DCniversitesi\\6.donem\\yapay_zeka\\ysa_odev\\WinFormsApp1\\WinFormsApp1\\YapaySinirAgi.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\YapaySinirAgi.cs",
+              "ToolTip": "D:\\Sel\u00E7uk \u00DCniversitesi\\6.donem\\yapay_zeka\\ysa_odev\\WinFormsApp1\\WinFormsApp1\\YapaySinirAgi.cs",
+              "RelativeToolTip": "WinFormsApp1\\YapaySinirAgi.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAALcBAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T08:53:12.408Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

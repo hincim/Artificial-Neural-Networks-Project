@@ -1,0 +1,50 @@
+C:\Users\hakan.DESKTOP-99I88G4\OneDrive\Masaüstü\yapay_zeka\ysa_odev1\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.exe
+C:\Users\hakan.DESKTOP-99I88G4\OneDrive\Masaüstü\yapay_zeka\ysa_odev1\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.deps.json
+C:\Users\hakan.DESKTOP-99I88G4\OneDrive\Masaüstü\yapay_zeka\ysa_odev1\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\hakan.DESKTOP-99I88G4\OneDrive\Masaüstü\yapay_zeka\ysa_odev1\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.dll
+C:\Users\hakan.DESKTOP-99I88G4\OneDrive\Masaüstü\yapay_zeka\ysa_odev1\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.pdb
+C:\Users\hakan.DESKTOP-99I88G4\OneDrive\Masaüstü\yapay_zeka\ysa_odev1\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\hakan.DESKTOP-99I88G4\OneDrive\Masaüstü\yapay_zeka\ysa_odev1\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.Form1.resources
+C:\Users\hakan.DESKTOP-99I88G4\OneDrive\Masaüstü\yapay_zeka\ysa_odev1\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\hakan.DESKTOP-99I88G4\OneDrive\Masaüstü\yapay_zeka\ysa_odev1\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hakan.DESKTOP-99I88G4\OneDrive\Masaüstü\yapay_zeka\ysa_odev1\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\hakan.DESKTOP-99I88G4\OneDrive\Masaüstü\yapay_zeka\ysa_odev1\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\hakan.DESKTOP-99I88G4\OneDrive\Masaüstü\yapay_zeka\ysa_odev1\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\hakan.DESKTOP-99I88G4\OneDrive\Masaüstü\yapay_zeka\ysa_odev1\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.dll
+C:\Users\hakan.DESKTOP-99I88G4\OneDrive\Masaüstü\yapay_zeka\ysa_odev1\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\refint\WinFormsApp1.dll
+C:\Users\hakan.DESKTOP-99I88G4\OneDrive\Masaüstü\yapay_zeka\ysa_odev1\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.pdb
+C:\Users\hakan.DESKTOP-99I88G4\OneDrive\Masaüstü\yapay_zeka\ysa_odev1\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\hakan.DESKTOP-99I88G4\OneDrive\Masaüstü\yapay_zeka\ysa_odev1\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\ref\WinFormsApp1.dll
+C:\Users\hakan.DESKTOP-99I88G4\OneDrive\Masaüstü\yapay_zeka\ysa_odev\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.exe
+C:\Users\hakan.DESKTOP-99I88G4\OneDrive\Masaüstü\yapay_zeka\ysa_odev\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.deps.json
+C:\Users\hakan.DESKTOP-99I88G4\OneDrive\Masaüstü\yapay_zeka\ysa_odev\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\hakan.DESKTOP-99I88G4\OneDrive\Masaüstü\yapay_zeka\ysa_odev\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.dll
+C:\Users\hakan.DESKTOP-99I88G4\OneDrive\Masaüstü\yapay_zeka\ysa_odev\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.pdb
+C:\Users\hakan.DESKTOP-99I88G4\OneDrive\Masaüstü\yapay_zeka\ysa_odev\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\hakan.DESKTOP-99I88G4\OneDrive\Masaüstü\yapay_zeka\ysa_odev\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.Form1.resources
+C:\Users\hakan.DESKTOP-99I88G4\OneDrive\Masaüstü\yapay_zeka\ysa_odev\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\hakan.DESKTOP-99I88G4\OneDrive\Masaüstü\yapay_zeka\ysa_odev\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hakan.DESKTOP-99I88G4\OneDrive\Masaüstü\yapay_zeka\ysa_odev\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\hakan.DESKTOP-99I88G4\OneDrive\Masaüstü\yapay_zeka\ysa_odev\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\hakan.DESKTOP-99I88G4\OneDrive\Masaüstü\yapay_zeka\ysa_odev\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\hakan.DESKTOP-99I88G4\OneDrive\Masaüstü\yapay_zeka\ysa_odev\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.dll
+C:\Users\hakan.DESKTOP-99I88G4\OneDrive\Masaüstü\yapay_zeka\ysa_odev\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\refint\WinFormsApp1.dll
+C:\Users\hakan.DESKTOP-99I88G4\OneDrive\Masaüstü\yapay_zeka\ysa_odev\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.pdb
+C:\Users\hakan.DESKTOP-99I88G4\OneDrive\Masaüstü\yapay_zeka\ysa_odev\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\hakan.DESKTOP-99I88G4\OneDrive\Masaüstü\yapay_zeka\ysa_odev\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\ref\WinFormsApp1.dll
+D:\Selçuk Üniversitesi\6.donem\yapay_zeka\ysa_odev\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.exe
+D:\Selçuk Üniversitesi\6.donem\yapay_zeka\ysa_odev\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.deps.json
+D:\Selçuk Üniversitesi\6.donem\yapay_zeka\ysa_odev\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.runtimeconfig.json
+D:\Selçuk Üniversitesi\6.donem\yapay_zeka\ysa_odev\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.dll
+D:\Selçuk Üniversitesi\6.donem\yapay_zeka\ysa_odev\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.pdb
+D:\Selçuk Üniversitesi\6.donem\yapay_zeka\ysa_odev\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.Form1.resources
+D:\Selçuk Üniversitesi\6.donem\yapay_zeka\ysa_odev\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\Selçuk Üniversitesi\6.donem\yapay_zeka\ysa_odev\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Selçuk Üniversitesi\6.donem\yapay_zeka\ysa_odev\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\Selçuk Üniversitesi\6.donem\yapay_zeka\ysa_odev\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\Selçuk Üniversitesi\6.donem\yapay_zeka\ysa_odev\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\Selçuk Üniversitesi\6.donem\yapay_zeka\ysa_odev\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.dll
+D:\Selçuk Üniversitesi\6.donem\yapay_zeka\ysa_odev\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\refint\WinFormsApp1.dll
+D:\Selçuk Üniversitesi\6.donem\yapay_zeka\ysa_odev\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.pdb
+D:\Selçuk Üniversitesi\6.donem\yapay_zeka\ysa_odev\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\Selçuk Üniversitesi\6.donem\yapay_zeka\ysa_odev\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\ref\WinFormsApp1.dll
